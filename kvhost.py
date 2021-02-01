@@ -141,6 +141,7 @@ class HostLink:
 if __name__ == "__main__":
     keyence = HostLink()
 
+    # testing code
     # while True:
     #     # read = keyence.single_read("W05")
     #     # number = random.randint(0,10)
